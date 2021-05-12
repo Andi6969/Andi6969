@@ -9,9 +9,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abeandr1234&cover_image=true&theme=compact)](https://spotify.com)
 
-<br />
-<br />
-<br />
 
 ---
 
