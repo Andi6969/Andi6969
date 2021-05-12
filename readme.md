@@ -1,35 +1,25 @@
 ### Yooo ham der Andi her! :smiley:
-
 <br />
 <br />
-
 ---
 
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abeandr1234&cover_image=true&theme=compact)](https://spotify.com)
-
 <br />
 <br />
-
----
 
 ## Om mig!
-
 - Navn: Andreas AKA Andi
 - Alder: Ukendt
-
 <br />
 <br />
-
----
 
 ## Kontakt mig!
 <img align="left" alt="Discord" width="23px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"/>
 - Andi!#2519
-
 <br />
-
+<br />
 ---
 
 ## Kode sporg jeg kan!
@@ -41,11 +31,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=appveyor=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=appveyor=Node.js&logoColor=ffffff)
 ![Discord.JS](http://img.shields.io/badge/-Discord.JS-007ACC?style=for-the-badge&logo=appveyor=visual-studio-code&logoColor=ffffff)
-
 <br />
 <br />
-
----
 
 ### Stats
 
