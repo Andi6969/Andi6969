@@ -32,3 +32,5 @@
 ### Stats
 
 [![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andi6969)](https://github.com) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andi6969&layout=compact)](https://github.com/)
