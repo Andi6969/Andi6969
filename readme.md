@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=appveyor=css3)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=appveyor=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=appveyor=Node.js&logoColor=ffffff)
-![Discord.JS](https://img.shields.io/badge/-Discord.JS-000000?style=for-the-badge&logo=appveyor=Discord.JS)
+![Discord.JS](https://img.shields.io/badge/-Discord.JS-000000?style=for-the-badge&logo=appveyor=Discord.JS%logoColor=ffffff)
 
 
 
