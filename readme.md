@@ -17,6 +17,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
+<img align="left" alt="lua" width="26px" src="https://www.google.com/search?q=discord.js+logo&sxsrf=ALeKk01QOweEtBoDnJG3vr4ykN-ZNUOByw:1620849552010&tbm=isch&source=iu&ictx=1&fir=M_HwabZ8eFMMtM%252CPxCJFogfPM0D1M%252C_&vet=1&usg=AI4_-kQBkpyNHvGrK4LTkEecFt8YRZCgHg&sa=X&ved=2ahUKEwi8jKCO98TwAhVilosKHY3eBzUQ9QF6BAgREAE&biw=1045&bih=708#imgrc=M_HwabZ8eFMMtM" />
+
 
 <br />
 <br />
