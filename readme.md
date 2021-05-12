@@ -21,3 +21,7 @@
 <br />
 
 ---
+
+<details>
+![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andi6907&show_icons=true&theme=radical)
+</details>
