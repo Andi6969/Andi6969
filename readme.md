@@ -1,4 +1,4 @@
-### Yooo ham der Andi her!
+### Yooo ham der Andi her! :smiley:
 
 ### Spotify Playing 🎧
 
