@@ -22,6 +22,4 @@
 
 ---
 
-<details>
-![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andi6907&show_icons=true&theme=radical)
-</details>
+[![Andi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andi6907)](https://github.com/Andi6907/github-readme-stats) 
