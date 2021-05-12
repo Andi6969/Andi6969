@@ -10,25 +10,16 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abeandr1234&cover_image=true&theme=compact)](https://spotify.com)
 
 
----
-
 ## Om mig!
 - Navn: Andreas AKA Andi
 - Alder: Ukendt
 
-<br />
-<br />
 
----
 
 ## Kontakt mig!
 <img align="left" alt="Discord" width="23px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"/>
 - Andi!#2519
 
-<br />
-<br />
-
----
 
 ## Kode sporg jeg kan!
 
