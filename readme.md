@@ -14,8 +14,8 @@
 
 ---
 
-
 ## Om mig!
+
 - Navn: Andreas AKA Andi
 - Alder: Ukendt
 
@@ -27,7 +27,6 @@
 ## Kontakt mig!
 <img align="left" alt="Discord" width="23px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"/>
 - Andi!#2519
-
 
 <br />
 <br />
@@ -43,8 +42,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=appveyor=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=appveyor=Node.js&logoColor=ffffff)
 ![Discord.JS](http://img.shields.io/badge/-Discord.JS-007ACC?style=for-the-badge&logo=appveyor=visual-studio-code&logoColor=ffffff)
-
-
 
 <br />
 <br />
