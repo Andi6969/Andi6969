@@ -8,6 +8,10 @@
 - Navn: Andreas AKA Andi
 - Alder: Ukendt
 
+## Kontakt mig!
+<img align="left" alt="Discord" width="100px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"/>
+- Andi!#2519
+
 
 ## Kode sporg jeg kan!
 
