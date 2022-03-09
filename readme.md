@@ -8,7 +8,7 @@
 
 ## Om mig!
 - Navn: Andreas AKA Andi
-- Alder: Ukendt
+- Alder: 15
 
 
 
