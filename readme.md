@@ -14,7 +14,7 @@
 
 ## Kontakt mig!
 <img align="left" alt="Discord" width="23px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"/>
-- Andi!#2519
+- Andi#0248
 
 
 ## Kode sporg jeg kan!
